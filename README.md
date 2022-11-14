@@ -4,7 +4,7 @@
 
 ### Integrantes 
 
-* Camilly Barros dos Santos
+* Camilly de Barros Santos
 * Michael Lima dos Santos
 * Victor Hugo Pereira de Sousa
 
